@@ -3,7 +3,7 @@ import React from "react";
 function StrideIntoSustainability() {
   return (
     <>
-      <div className="flex md:flex-row justify-between items-center md:px-20 md:pt-20 flex-col  md:flex-row-reverse mt-10">
+      <div className="flex justify-between items-center md:px-20 md:pt-20 flex-col  md:flex-row-reverse mt-10">
         <div className="relative mb-50">
           <img className="z-40 ml-40  w-[45%]" src="image3.png" alt="" />
           <img
