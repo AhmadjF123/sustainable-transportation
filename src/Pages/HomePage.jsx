@@ -1,4 +1,3 @@
-// HomePage.jsx
 import React from "react";
 import HeroSection from "../Components/HeroSection";
 import YourJourney from "../Components/YourJourney";
